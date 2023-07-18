@@ -63,6 +63,9 @@ public class AmazonAutomate {
 	   signin.click();
 	   
 	   WebDriverWait wait1 = new WebDriverWait(driver, Duration.ofSeconds(60));
+	   
+	   
+	   //changes done
 	  
 	   
 	   
